@@ -2,7 +2,7 @@
 The problems are solved using Object-Oriented programming in python.
 
 
-##Setup
+## Setup
 
 Install all the required packages:
 Open terminal and run:
